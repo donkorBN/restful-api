@@ -1,3 +1,3 @@
 ## RESTful API Project
 
-This is a simple api that is built with nodeJS
+This is a simple API that is built with nodeJS and Express
